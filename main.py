@@ -1,3 +1,4 @@
-﻿print('Hello from Remote change!')
+﻿print('Hello from Both!')
 print('This is from the feature branch')
+
 
